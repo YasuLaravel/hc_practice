@@ -1,0 +1,15 @@
+p {
+    color: red;
+}
+
+#interesting {
+    color: purple;
+}
+
+.difficult {
+    color: blue;
+}
+
+a[target="_blank"] {
+    color: orange;
+}
